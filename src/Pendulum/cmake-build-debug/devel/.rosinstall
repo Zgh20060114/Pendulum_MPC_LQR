@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zgh/CLionProjects/ROS_Pendulim/src/Pendulum/cmake-build-debug/devel/setup.sh

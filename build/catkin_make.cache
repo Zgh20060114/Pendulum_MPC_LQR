@@ -1,0 +1,2 @@
+Pendulum
+-DCATKIN_DEVEL_PREFIX=/home/zgh/CLionProjects/ROS_Pendulim/devel -DCMAKE_INSTALL_PREFIX=/home/zgh/CLionProjects/ROS_Pendulim/install -G Unix Makefiles
